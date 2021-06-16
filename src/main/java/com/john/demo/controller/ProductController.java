@@ -30,6 +30,6 @@ public class ProductController {
 
     @GetMapping("/")
     public String welcome() {
-        return "Welcome to Demo !!";
+        return "Welcome to JAvA!!";
     }
 }
